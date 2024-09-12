@@ -17,5 +17,6 @@ A simple login page with form validation and API integration. The page is respon
 3. View and test the login form.
 
 ## Live Demo:
-You can check the live version of this project (https://github.com/Sujithsudini/Login-web-page).
+You can check the live version of this project (https://sujithsudini.github.io/Login-web-page/)
+.
 
